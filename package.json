@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "khoi-tao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastnef2001/khoi-tao-nodejs.git"
+  },
+  "keywords": [
+    "khoi-tao",
+    "nodejs"
+  ],
+  "author": "fastnef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fastnef2001/khoi-tao-nodejs/issues"
+  },
+  "homepage": "https://github.com/fastnef2001/khoi-tao-nodejs#readme",
+  "description": ""
+}
